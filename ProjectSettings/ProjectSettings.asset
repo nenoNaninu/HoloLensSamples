@@ -558,7 +558,7 @@ PlayerSettings:
     Metro: 2
   incrementalIl2cppBuild: {}
   additionalIl2CppArgs: 
-  scriptingRuntimeVersion: 0
+  scriptingRuntimeVersion: 1
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
@@ -571,7 +571,7 @@ PlayerSettings:
   metroCertificateNotAfter: 80012961f347d501
   metroApplicationDescription: HololensSamples
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: HololensSamples
   metroCommandLineArgsFile: 
   metroTileShowName: 0
   metroMediumTileShowName: 0
@@ -664,7 +664,7 @@ PlayerSettings:
   cloudServicesEnabled:
     UNet: 1
   facebookSdkVersion: 7.9.4
-  apiCompatibilityLevel: 2
+  apiCompatibilityLevel: 3
   cloudProjectId: b34d5657-4475-4cf9-a8a6-4b05287e3d83
   projectName: HololensSamples
   organizationId: naritomi
